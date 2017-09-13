@@ -1,6 +1,6 @@
 <?php
 $subject = $_REQUEST['subject'] . 'Plane Crazy Studios: Query'; // Subject of your email
-$to = 'mishaal@planecrazystudios.com' 'sanyam@planecrazystudios.com';  //Recipient's or Your E-mail
+$to = 'mishaal@planecrazystudios.com';  //Recipient's or Your E-mail
 
 $headers  = 'MIME-Version: 1.0' . "\r\n";
 $headers .= "From: " . $_REQUEST['email'] . "\r\n"; // Sender's E-mail
