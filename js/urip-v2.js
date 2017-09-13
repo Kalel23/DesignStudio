@@ -240,7 +240,7 @@ $(document).ready(function(){
         }
 
         if(error == false){
-            $.post("contact.php", $("#contact-form").serialize(),function(result){
+            $.post("contactform.php", $("#contact-form").serialize(),function(result){
                 if(result == 'sent'){
                     $('#success-notification').addClass('show-up');
                     $('.submit-btn').addClass('disabled');
