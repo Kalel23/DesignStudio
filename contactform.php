@@ -1,5 +1,5 @@
 <?php
-$to = 'mishaal@planecrazystudios.com';  //Recipient's or Your E-mail
+$to = 'mishaalnathani@outlook.com';  //Recipient's or Your E-mail
 $subject = "Contact Form Query"; // Subject of your email
 
 $message .= 'First Name: ' . $_POST['fname'] . "<br>";
