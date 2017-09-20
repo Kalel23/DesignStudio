@@ -2792,7 +2792,7 @@ ul.countdown-timer li span.time-name {
 .perspective-mockup-bg:before {
 	position: absolute;
 	width: 615px;
-	height: 655px;
+	height: 615px;
 	background: url(../images/uploads/webdesignstory2.png) no-repeat;
 	content: "";
 }
