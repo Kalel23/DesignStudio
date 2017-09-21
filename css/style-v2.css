@@ -2793,8 +2793,8 @@ ul.countdown-timer li span.time-name {
 	position: absolute;
 	width: 615px;
 	height: 615px;
+	overflow: hidden;
 	background: url(../images/uploads/webdesignstory2.png) no-repeat;
-	overflow: auto;
 	content: "";
 }
 }
