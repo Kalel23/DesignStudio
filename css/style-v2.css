@@ -2787,15 +2787,15 @@ ul.countdown-timer li span.time-name {
 	margin-bottom: 47px;
 }
 
-@media only screen and (min-width: 760px) {
+@media only screen and (min-width: 769px) {
 
 .perspective-mockup-bg:before {
 	position: absolute;
+	height: 575px;
 	width: 615px;
-	height: 615px;
-	overflow: hidden;
 	background: url(../images/uploads/webdesignstory2.png) no-repeat;
 	content: "";
+ 	
 }
 }
 
